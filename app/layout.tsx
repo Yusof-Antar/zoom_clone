@@ -10,7 +10,7 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "YOOM Clone",
+  title: "YOOM",
   description: "Video caliing app",
   icons: {
     icon: "/icons/logo.svg",
